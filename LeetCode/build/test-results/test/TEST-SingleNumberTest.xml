@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SingleNumberTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-03-02T20:38:40" hostname="jainil-HP-Pavilion-15-Notebook-PC" time="0.005">
+  <properties/>
+  <testcase name="singleNumber" classname="SingleNumberTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
